@@ -1,0 +1,13 @@
+Project Title: The Graph Upside Down
+Title: Gun Deaths in Florida
+Caption:
+Christine Chan's graph showing the increase in homicides by firearms after Florida enacts the "Stand your ground" law.
+Part 1:
+Source of infographic: http://graphics.thomsonreuters.com/14/02/US-FLORIDA0214.gif
+Intended audience: Americans (and others) interested in the consequences of Florida's "Stand your ground" law. 
+Reason: The law was enacted in Florida, a state in the United States. Also, gun policy is a relatively bigger issue in the United States and the question whether if stricter gun laws would lead to less gun homicides is a well-debated issue. 
+Part 2:
+1. At first glance, the graph makes it seem that after the "Stand your ground" law was passed, there were fewer deaths by firearms. However, the graph is actually inverted, with the y-axis going from 1000 to 0 upwards rather than the normal y-axis that starts from 0 and continues increasing upwards. 
+2. Using Graphic Forms in Inappropriate Ways
+3. The graph is supposed to mimic Simon Scarr's ﻿Iraq's Bloody Toll﻿ graph, a bar graph on the number of deaths per month in Iraq purposely flipped to picture a bloodstain. It is clear and obvious that the graph is flipped. However, Chan's graph makes it seem like it is a line graph (circles on data instead of using bars), thus losing Scarr's picture of a bloodstain and making it unclear that this graph was flipped. Obviously, Chan was not trying to decieve the audience contrary to Spain's data analysts, and simply did not convey her message correctly. 
+Source for ﻿Iraq's Bloody Toll﻿: https://www.infoworld.com/article/3088166/why-how-to-lie-with-statistics-did-us-a-disservice.html
