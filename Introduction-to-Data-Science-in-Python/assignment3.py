@@ -209,7 +209,7 @@ answer_twelve()
 # Question 13
 def answer_thirteen():
     Top15 = answer_one()
-    Top15["PopEst"] = (1 / Top15["Energy Supply per Capita"]) * Top15["Energy Supply"]
+    Top15["PopEst"] = (Top15["Energy Supply"] / Top15["Energy Supply per Capita"])
     Top15 = Top15["PopEst"].apply(lambda num: "{:,}".format(num))
     Top15 = Top15.astype(dtype="str")
     return Top15
