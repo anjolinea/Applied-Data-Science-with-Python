@@ -38,6 +38,8 @@ def get_recession_end():
     df = pd.read_excel("gdplev.xls",skiprows=7)
     df = df.rename(columns={"Unnamed: 6":"GDP", "Unnamed: 4": "Quarter"})
     df = df[["Quarter", "GDP"]]
+    place_2000q1 = df[df["Quarter"] == "2000q1"].index.tolist()[0]
+    df = df[place_2000q1:]
     # new code
     place_beg = df[df["Quarter"] == "2008q3"].index.tolist()[0]
     df_new = df[place_beg - place_2000q1: ]
