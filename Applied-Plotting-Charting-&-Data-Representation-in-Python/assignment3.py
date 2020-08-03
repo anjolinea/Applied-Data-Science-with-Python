@@ -2,9 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
-import math
 from matplotlib.cm import get_cmap
-from matplotlib.colors import Normalize
 
 np.random.seed(12345)
 
