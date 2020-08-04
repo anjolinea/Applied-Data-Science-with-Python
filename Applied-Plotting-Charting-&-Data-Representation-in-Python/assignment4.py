@@ -67,7 +67,7 @@ ax.legend(((m2, m1), (m3, m4),(m5, m6), (m7, m8)), ('Northeast', 'Midwest', "Sou
 # titles and footnote
 plt.xlabel("Year", fontsize=13)
 plt.ylabel("% of Population", fontsize=13)
-plt.title("Religious Compositions of Regions of the United States", fontsize=16)
+plt.title("Christian vs. Unaffiliated Religious Compositions \n of Regions of the United States", fontsize=16)
 plt.figtext(0.95, 0.01, "Note: Ann Arbour is part of the Midwestern region", horizontalalignment='right', fontsize=10)
 
 # x-label cut off, include back again
