@@ -1,6 +1,7 @@
 %matplotlib notebook
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 from matplotlib.offsetbox import AnchoredText
 
 # set up data to be used
